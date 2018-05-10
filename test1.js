@@ -23,4 +23,4 @@ testApp.controller('test1', function ($scope, $filter, $http, $location, $rootSc
 /*});*/
 
 
-document.getElementById("testContent").innerHTML = "Hello Helix ALM!";
+document.getElementById("helloText").innerHTML = "Hello Helix ALM!";
